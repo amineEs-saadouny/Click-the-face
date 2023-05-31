@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Box(props) {
   const style = {
-    backgroundColor: props.on ? "#ccc" : "#222",
+    backgroundColor: props.on ? "#cccccc" : "#222",
   };
   return (
     <div
