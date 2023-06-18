@@ -16,4 +16,4 @@ the emojis change using conditional rendering, based on the value of the props.o
 
 # AND THIS IS CLICK THE FACE
 
-![click the face](/Click%20The%20Face%20-%20.mp4)
+![click the face](/Click%20The%20Face%20-%20.gif)
